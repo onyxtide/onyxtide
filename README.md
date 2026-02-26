@@ -44,7 +44,7 @@ These projects are what first drew me toward **computational biology** and **neu
 
 ### 🌍 A Bit More About Me
 
-- 🇬🇷 Based in Greece — native Greek speaker, C2 English (Cambridge & Michigan certified)
+- 🇬🇷 Based in Greece, native Greek speaker, C2 English (Cambridge & Michigan certified)
 - 🗣️ Currently learning **Lebanese Arabic**, **Mandarin Chinese**, and **Spanish**
 - 🎨 Gouache painter, Studio Ghibli enthusiast
 - 🎹 Trained in classical piano, accordion, and vocal performance (Music School of Pallini)
