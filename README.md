@@ -13,10 +13,10 @@ I don't have a computer science degree. I learn by doing, asking questions, and 
 I'm an active contributor to research platforms where anyone can help advance real science:
 
 - **[EyeWire](https://eyewire.org)** — Mapping neurons in the retinal connectome for neuroscience research at Princeton
-- **[Folding@home](https://foldingathome.org)** — Donating computing power for protein dynamics simulations in disease research (28,000+ points contributed)
+- **[Folding@home](https://foldingathome.org)** — Donating computing power for protein dynamics simulations in disease research (300,000+ points contributed)
 - **[Stall Catchers](https://stallcatchers.com)** — Analysing brain blood flow data for Alzheimer's disease research
 
-These projects are what first drew me toward **computational biology** and **neuroscience** and they're shaping where I want to take my career.
+These projects are what first drew me toward **computational biology** and **neuroscience**, and they're shaping where I want to take my career.
 
 ---
 
