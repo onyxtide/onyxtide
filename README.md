@@ -58,7 +58,7 @@ I'm drawn to the intersection of **data, biology, and open science**. I'm curren
 
 Long-term, I want to contribute to tools and systems that help us understand the brain, decode genetic data, or improve healthcare outcomes. I'm especially interested in **connectomics** (mapping neural circuits, which is what drew me to EyeWire), **neuroimaging data analysis**, and **machine learning applications in medicine**.
 
-For now, I'm building a solid foundation one commit at a time — and staying close to the citizen science communities that keep me motivated.
+For now, I'm building a solid foundation one commit at a time and staying close to the citizen science communities that keep me motivated.
 
 ---
 
