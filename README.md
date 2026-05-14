@@ -6,6 +6,7 @@ I come from a background in **AI data services**, **customer success**, and **te
 
 I don't have a computer science degree. I learn by doing, asking questions, and not pretending I know things I don't.
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H51ZJN59)
 ---
 
 ### 🔬 Citizen Science
