@@ -2,7 +2,8 @@
 
 **Data & AI Enthusiast | Citizen Scientist | Privacy Advocate | Lifelong Learner**
 
-I come from a background in **AI data services**, **customer success**, and **technical support** with hands-on experience in PII annotation, data quality auditing, and GDPR compliance. I'm now channelling that into learning programming and exploring where data meets science.
+I come from a background in **AI data services**, **customer success**, and **technical support** with hands-on experience in PII annotation, data quality auditing, and GDPR compliance.
+I'm now channelling that into learning programming and exploring where data meets science.
 
 I don't have a computer science degree. I learn by doing, asking questions, and not pretending I know things I don't.
 
@@ -13,10 +14,10 @@ I don't have a computer science degree. I learn by doing, asking questions, and 
 
 I'm an active contributor to research platforms where anyone can help advance real science:
 
-- **[Folding@home](https://foldingathome.org)** — Donating computing power for protein dynamics simulations in disease research  
-  🧬 **1,392,762 points** earned  
-  🧪 **83 work units** completed  
-  🏆 **Rank #309,609** — Top 1M Ranked Donor  
+- **[Folding@home](https://foldingathome.org)** — Donating computing power for protein dynamics simulations in disease research
+  🧬 **1,392,762 points** earned
+  🧪 **83 work units** completed
+  🏆 **Rank #309,609** — Top 1M Ranked Donor
   ⚡ **1 active client** (within 7 days) · 1 active client (within 50 days)
 - **[Stall Catchers](https://stallcatchers.com)** — Analysing brain blood flow data for Alzheimer's disease research
 
@@ -62,7 +63,8 @@ These projects are what first drew me toward **computational biology** and **neu
 
 ### 💡 Where I'm Headed
 
-I'm drawn to the intersection of **data, biology, and open science**. Long-term, I want to contribute to tools and systems that help us understand the brain, decode genetic data, or improve healthcare outcomes. I'm especially interested in **connectomics** (mapping neural circuits), **neuroimaging data analysis**, and **machine learning applications in medicine**.
+I'm drawn to the intersection of **data, biology, and open science**. Long-term, I want to contribute to tools and systems that help us understand the brain, decode genetic data, or improve healthcare outcomes.
+I'm especially interested in **connectomics** (mapping neural circuits), **neuroimaging data analysis**, and **machine learning applications in medicine**.
 
 For now, I'm building a solid foundation one commit at a time and staying close to the citizen science communities that keep me motivated.
 
