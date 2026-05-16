@@ -1,4 +1,4 @@
-# Hi, I'm Mario K. 👋
+# Hi, I'm Mario A. K. 👋
 
 **Data & AI Enthusiast | Citizen Scientist | Privacy Advocate | Lifelong Learner**
 
