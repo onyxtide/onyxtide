@@ -20,7 +20,6 @@ I'm an active contributor to research platforms where anyone can help advance re
   - 🧬 **2,434,973 points** earned
   - 🧪 **139 work units** completed
   - 🏆 **Rank #257,836** — Top 300K Ranked Donor
-  - ⚡ **1 active client** (within 7 days) · 1 active client (within 50 days)
 - **[Stall Catchers](https://stallcatchers.com)** — Analysing brain blood flow data
   for Alzheimer's disease research
 
