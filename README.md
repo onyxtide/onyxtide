@@ -10,8 +10,7 @@ I don't have a computer science degree. I learn by doing, asking questions, and 
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H51ZJN59)
 
-
-[![Donate with PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/donate?hosted_button_id=WET87U6YLULZG)
+[![Donate with PayPal](https://img.shields.io/badge/%20Donate%20-%20PayPal%20-blue.svg?logo=paypal)](https://www.paypal.com/donate?hosted_button_id=WET87U6YLULZG) 
 
 ---
 
