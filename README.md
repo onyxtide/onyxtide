@@ -9,6 +9,10 @@ I'm now channelling that into learning programming and exploring where data meet
 I don't have a computer science degree. I learn by doing, asking questions, and not pretending I know things I don't.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H51ZJN59)
+
+
+[![Donate with PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/donate?hosted_button_id=WET87U6YLULZG)
+
 ---
 
 ### 🔬 Citizen Science
