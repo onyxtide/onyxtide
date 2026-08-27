@@ -47,13 +47,6 @@ These projects are what first drew me toward **computational biology** and **neu
 
 ---
 
-### 🛠️ Repositories
-
-* 🎨 **[Portfolio](https://github.com/onyxtide/portfolio)** — Personal portfolio site showcasing my background in AI data services and technical support
-* 🐍 **[Python_Exercises](https://github.com/onyxtide/Python_Exercises)** — Documenting my Python learning journey through Codedex, Python Crash Course (3rd Edition), and Coursera courses
-
----
-
 ### 🌍 A Bit More About Me
 
 * 🇬🇷 Based in Greece, native Greek speaker, C2 English (Cambridge & Michigan certified)
