@@ -79,10 +79,6 @@ There is **no obligation at all**. A ⭐ on a project, sharing my work, or simpl
 
 [![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H51ZJN59)
 
-[![PayPal](https://img.shields.io/badge/Donate%20with-PayPal-blue?logo=paypal)](https://www.paypal.com/donate?hosted_button_id=WET87U6YLULZG)
-
-**PayPal:** [paypal.me/marioathanasiou](https://paypal.me/marioathanasiou)
-
 **Bitcoin (BTC)**
 
 ```text
