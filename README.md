@@ -1,125 +1,168 @@
 # Hi, I'm Mario A. K. 👋
 
-**Data & AI Enthusiast | Citizen Scientist | Privacy Advocate | Lifelong Learner**
+**Data & AI Enthusiast · Citizen Scientist · Privacy Advocate · Aspiring Computational Biology Researcher**
 
-I come from a background in **AI data services**, **customer success**, and **technical support**, with hands-on experience in PII annotation, data quality auditing, and GDPR compliance.
+Welcome to my corner of GitHub! I'm exploring the intersection of **data, programming, biology, and open science**, building practical skills through independent learning, hands-on projects, and citizen-science contributions.
 
-I'm now channelling that experience into learning programming and exploring where **data meets science**.
+My background spans **AI data services, data quality auditing, customer success, and technical support**, including PII annotation, GDPR-aligned data handling, and AI response evaluation.
 
-I don't have a computer science degree. I learn by doing, asking questions, and not pretending I know things I don't.
+I'm now channeling that experience into programming, data analysis, and scientific computing — one experiment, one project, and one commit at a time.
 
----
-
-### 🔬 Citizen Science
-
-I'm an active contributor to research platforms where anyone can help advance real science:
-
-* **[Folding@home](https://foldingathome.org)** — Donating computing power for protein dynamics simulations in disease research
-
-  * 🧬 **2,434,973 points** earned
-  * 🧪 **139 work units** completed
-  * 🏆 **Rank #257,836** — Top 300K Ranked Donor
-* **[Stall Catchers](https://stallcatchers.com)** — Analysing brain blood flow data for Alzheimer's disease research
-
-These projects are what first drew me toward **computational biology** and **neuroscience**, and they're shaping where I want to take my career.
+I don't have a computer science degree, and I'm not going to pretend otherwise. I believe in learning by doing, asking questions, documenting what I discover, and being honest about what I still need to learn.
 
 ---
 
-### 📚 Currently Learning
+### 🔬 Citizen Science & Open Research
 
-**Languages & Scripting**
+I believe meaningful scientific contributions aren't limited to professional researchers. Through citizen-science platforms, I'm able to contribute to real research while learning more about the systems I'm passionate about.
 
-* 🐍 **Python** — Comfortable with scripting, automation, and data analysis; my primary language for projects and exploring computational biology
+**🧬 [Folding@home](https://foldingathome.org)**
 
-**Systems & Tools**
+Contributing computing power to distributed scientific research involving protein dynamics and disease-related biological processes.
 
-* 🐧 **Linux** — Daily driver (Ubuntu). Proficient with systemd services, networking, firewall configuration, package management, and system troubleshooting
-* 🐙 **Git & GitHub** — Using version control actively and learning in public
+- 🧪 **2,434,973 points** earned
+- 🔬 **139 work units** completed
+- 🏆 **Rank #257,836** — Top 300K ranked donor
 
-**Privacy & Networking**
+**🧠 [Stall Catchers](https://stallcatchers.com)**
 
-* 🧅 **Tor / .onion** — Comfortable navigating the Tor network using Tor Browser for .onion hidden services, and familiar with how onion routing works
-* 🟣 **I2P (Invisible Internet Project)** — Running **i2pd** (the C++ implementation) and browsing .i2p eepsites through Mullvad Browser configured with I2P's local HTTP proxy
-* 🔒 **Mullvad DNS** — Using encrypted DNS-over-TLS for query privacy, and Mullvad Browser as my privacy-focused browser
-* 💰 **Monero (XMR)** — Using the Feather wallet connected through I2P's SOCKS5 proxy for private transactions
+Helping researchers investigate blood flow in the brain by analysing microscopy videos, contributing to research into Alzheimer's disease and related questions.
 
-> I'm not a developer yet. I'm learning in public. What you'll find here are practice repos, guided projects, and experiments as I build up my skills.
+These projects helped spark my interest in **computational biology, neuroscience, and scientific computing**. They also remind me that small contributions, accumulated across a community, can support something much bigger than any individual.
 
 ---
 
-### 🌍 A Bit More About Me
+### 💻 My Learning Journey
 
-* 🇬🇷 Based in Greece, native Greek speaker, C2 English (Cambridge & Michigan certified)
-* 🗣️ Currently learning **Mandarin Chinese** and **Spanish**
-* 🎨 Gouache painter, Studio Ghibli enthusiast
-* 🎹 Trained in classical piano, accordion, and vocal performance (Music School of Pallini)
-* 💼 Former **Data Annotation Auditor** (iMerit) · **Customer Success** (Plum) · **Tech Support** (Microsoft/Movate)
+I'm building a practical foundation in programming, Linux systems, data analysis, and privacy-focused technology.
+
+**Programming & Data**
+
+- 🐍 **Python** — My primary language for scripting, automation, data analysis, and exploring computational biology.
+- 🧮 **Scientific computing** — Developing the foundations needed to work with biological and research datasets.
+- 🐙 **Git & GitHub** — Version control, project documentation, experimentation, and learning in public.
+
+**Linux & Systems**
+
+- 🐧 **Ubuntu Linux** — My daily-driver operating system.
+- ⚙️ **System administration** — Hands-on practice with systemd services, package management, networking, firewall configuration, and troubleshooting.
+
+**Privacy & Decentralised Networking**
+
+- 🧅 **Tor** — Familiar with onion routing, Tor Browser, and onion services.
+- 🟣 **I2P** — Running i2pd and exploring I2P eepsites through local proxy configurations.
+- 🔒 **Privacy tools** — Exploring encrypted DNS, privacy-focused browsing, and network-level privacy.
+- 💰 **Monero** — Using the Feather wallet and learning about privacy-oriented cryptocurrency infrastructure.
+
+I approach these technologies as both a learner and a curious user: experimenting, researching how things work, and building a better understanding of the underlying systems.
+
+> This GitHub profile documents my learning in public. Expect practice repositories, experiments, guided projects, notes, and progressively more independent work as my skills develop.
 
 ---
 
-### 💡 Where I'm Headed
+### 🧪 Where Data Meets Science
 
-I'm drawn to the intersection of **data, biology, and open science**.
+My long-term interests lie at the intersection of **computational biology, neuroscience, and machine learning**.
 
-Long-term, I want to contribute to tools and systems that help us understand the brain, decode genetic data, or improve healthcare outcomes. I'm especially interested in **connectomics** (mapping neural circuits), **neuroimaging data analysis**, and **machine learning applications in medicine**.
+I'm particularly interested in:
 
-For now, I'm building a solid foundation one commit at a time and staying close to the citizen science communities that keep me motivated.
+- 🧠 **Connectomics** — Understanding how neural circuits are organised and connected.
+- 🩻 **Neuroimaging** — Exploring computational approaches to analysing brain imaging data.
+- 🧬 **Computational biology** — Using programming and data analysis to investigate biological systems.
+- 🤖 **Machine learning in medicine** — Exploring how computational methods can support biomedical research and healthcare.
+- 🌍 **Open science** — Supporting accessible research, reproducible workflows, and collaborative scientific discovery.
+
+For now, my priority is to strengthen my programming and analytical foundations, develop meaningful projects, and learn from the scientific and open-source communities.
+
+---
+
+### 🌍 A Little More About Me
+
+- 🇬🇷 Based in Greece; native Greek speaker.
+- 🇬🇧 C2 English proficiency, with Cambridge and Michigan certifications.
+- 🗣️ Learning Mandarin Chinese and Spanish.
+- 🎨 Gouache painter and Studio Ghibli enthusiast.
+- 🎹 Background in classical piano, accordion, and vocal performance at the Music School of Pallini.
+- 🔐 Interested in digital privacy, open-source software, and user autonomy.
+
+**Professional background**
+
+- **AI Data Annotation & Auditing** — iMerit
+- **Customer Success** — Plum
+- **Technical Support** — Microsoft / Movate
+
+My experience working with data quality, language, technology, and people continues to influence how I approach research, programming, and problem-solving.
 
 ---
 
 ### ❤️ Support My Journey
 
-I'm currently working toward getting back on my feet financially while continuing to learn, build, research, and contribute.
+I'm working toward greater financial stability while continuing to learn, build projects, and contribute to open science.
 
-If you've found something here useful — a project, a write-up, a piece of research, or simply the journey itself — and you'd like to support me, even a small contribution genuinely helps.
+If you find something useful here — a project, a research note, an experiment, or an idea — and would like to support my journey, **your contribution genuinely helps me dedicate more time to learning and creating**.
 
-There is **no obligation at all**. A ⭐ on a project, sharing my work, or simply saying hello is already appreciated.
+There's absolutely no obligation. A ⭐ on a repository, sharing my work, contributing an idea, or simply saying hello is just as welcome.
 
-#### 💙 Support via
+#### 💙 Support via PayPal or Ko-fi
 
-[![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H51ZJN59)
+[![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.biz/marioathanasiou)
 
-**Bitcoin (BTC)**
+[![Support via Ko-fi](https://img.shields.io/badge/Support%20on-Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/H2H51ZJN59)
+
+#### ₿ Support via Cryptocurrency
+
+If you prefer cryptocurrency, you can use the addresses below.
+
+<details>
+<summary>₿ Bitcoin (BTC)</summary>
 
 ```text
 bc1qrxps5wa454jmna46h7cz9660cnuqtqvgysk4q9
 ```
 
-**Ethereum (ETH)**
+</details>
+
+<details>
+<summary>◆ Ethereum (ETH)</summary>
 
 ```text
 0xd54b0383AB78f3495253b5fFFa62C09019A73d55
 ```
 
-**Solana (SOL)**
+</details>
+
+<details>
+<summary>◎ Solana (SOL)</summary>
 
 ```text
 hq27vfAKxXvEMLDcxGod9JbxJ9pGYRALqyy5S32S6Mu
 ```
 
-**Monero (XMR)**
+</details>
+
+<details>
+<summary>ɱ Monero (XMR)</summary>
 
 ```text
 43Se7Byx5sVUtgbXWbSDPTB87GNZq4Qi5gMQPK2MLd5vhyhVhxwyEkjiYbLrKK1uNkHt5JCpNt4HhGN2q8k3GpQ4UuxQ2q4
 ```
 
-For **IRIS or bank transfer**, please contact me privately and I'll provide the relevant details.
+</details>
 
-Thank you for helping me keep learning, creating, and contributing. ❤️
+For **IRIS or bank transfer**, please contact me privately for the relevant details.
+
+Every contribution helps me keep learning, experimenting, and participating in the communities that inspire me. Thank you for being part of the journey. ❤️
 
 ---
 
 ### 📫 Let's Connect
 
-[![LinkedIn][linkedin-badge]][linkedin-url]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/mario-athanasiou)
 
-📧 **Email**
+- 📧 **Email:** [mario.athanasiou.official@gmail.com](mailto:mario.athanasiou.official@gmail.com)
+- 🔐 **Privacy-focused email:** [venusxmercury@protonmail.com](mailto:venusxmercury@protonmail.com)
+- 📸 **Instagram:** [@mariokade.official](https://instagram.com/mariokade.official)
 
-* [mario.athanasiou.official@gmail.com](mailto:mario.athanasiou.official@gmail.com)
-* [venusxmercury@protonmail.com](mailto:venusxmercury@protonmail.com)
+I'm always happy to connect with fellow learners, citizen scientists, open-source contributors, and people interested in the intersection of technology and science.
 
-📸 **Instagram:** [@mariokade.official](https://instagram.com/mariokade.official)
-
-[linkedin-badge]: https://img.shields.io/badge/LinkedIn-mario--athanasiou-blue?style=flat&logo=linkedin
-[linkedin-url]: https://www.linkedin.com/in/mario-athanasiou
-
+**Thanks for stopping by!** 🚀
