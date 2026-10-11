@@ -109,6 +109,7 @@ There's absolutely no obligation. A ⭐ on a repository, sharing my work, contri
 
 [![Support via Ko-fi](https://img.shields.io/badge/Support%20on-Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/H2H51ZJN59)
 
+
 #### ₿ Support via Cryptocurrency
 
 If you prefer cryptocurrency, you can use the addresses below.
@@ -117,7 +118,7 @@ If you prefer cryptocurrency, you can use the addresses below.
 <summary>₿ Bitcoin (BTC)</summary>
 
 ```text
-bc1qrxps5wa454jmna46h7cz9660cnuqtqvgysk4q9
+bc1q5n5kg806qmg30qqjnjqy5sf3j0mg4cp29yspae
 ```
 
 </details>
@@ -126,7 +127,7 @@ bc1qrxps5wa454jmna46h7cz9660cnuqtqvgysk4q9
 <summary>◆ Ethereum (ETH)</summary>
 
 ```text
-0xd54b0383AB78f3495253b5fFFa62C09019A73d55
+0xf0cC4cC787115cB77d007e7Fc910c1E14A31A1BF
 ```
 
 </details>
@@ -135,7 +136,7 @@ bc1qrxps5wa454jmna46h7cz9660cnuqtqvgysk4q9
 <summary>◎ Solana (SOL)</summary>
 
 ```text
-hq27vfAKxXvEMLDcxGod9JbxJ9pGYRALqyy5S32S6Mu
+5mRNfXE51wKZd5Z19aM9ueUtfHpKJq6rNeTsPWhApAjM
 ```
 
 </details>
